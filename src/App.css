@@ -1,0 +1,27 @@
+body{
+  background-color: #e8fdf5;
+}
+.App {
+  text-align: center;
+}
+
+.card-container{
+  display: flex;
+  justify-content: center;
+}
+
+.card{
+  border: 5px solid #00449e;
+  width: 50%;
+  padding-bottom: 400px;
+}
+
+button{
+  margin-left: 10px;
+  background-color:  #cdecff;
+  border-radius: 30px;
+}
+
+
+
+
